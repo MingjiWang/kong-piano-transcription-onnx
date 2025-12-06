@@ -27,4 +27,4 @@ Kong, Q., Li, B., Song, X., Wan, Y., Wang, Y.
 *High-resolution Piano Transcription with Pedals by Regressing Onsets and Offsets Times.*  
 arXiv:2010.01815 (2020)
 
-ONNX conversion by **<Mingji Wang>**.
+ONNX conversion by **Mingji Wang**.
